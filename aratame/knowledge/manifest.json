@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "kind": "aratame-artifacts",
+  "files": [
+    {
+      "path": "aratame/knowledge/CONVENTIONS.md",
+      "kind": "conventions",
+      "origin": "generated",
+      "sha256": "e5d62236f01ed1acff729caec4f3af184781eb37716113968b89716156ed68d6"
+    },
+    {
+      "path": "aratame/knowledge/pages/09f231e261c6cb7db15060829c3a1c7c.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "1fb57afdeb2d085280f48ea1c608322f7404824d7cf7007c43af3bf8664d8420"
+    },
+    {
+      "path": "aratame/knowledge/provenance.json",
+      "kind": "provenance",
+      "origin": "generated",
+      "sha256": "41e90ad81f76ac391c355e398536fdc57c0743ebaedcb1903c43627ca4922a21"
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
+      "title": "Invented retention guide",
+      "surface": "parcel",
+      "path": "aratame/knowledge/pages/09f231e261c6cb7db15060829c3a1c7c.md",
+      "origin": "generated",
+      "citations": [
+        "2c34d620-ebd0-43b9-a40c-15a6c8f86a79",
+        "416ec800-0353-4c7c-8ef2-07b4605c8556"
+      ],
+      "sourceVersions": {
+        "2c34d620-ebd0-43b9-a40c-15a6c8f86a79": "2026-09-11T18:29:56.904Z",
+        "416ec800-0353-4c7c-8ef2-07b4605c8556": "2026-09-11T18:29:23.339Z"
+      },
+      "gaps": [],
+      "history": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "2c34d620-ebd0-43b9-a40c-15a6c8f86a79",
+      "title": "Authored invented review clarification",
+      "source": "manual",
+      "updatedAt": "2026-09-11T18:29:56.904Z",
+      "sha256": "000e54139134426a9e248c320543bde9b4fcbc2b031db36d1f9a88b8b79f70e6",
+      "retention": "cloud",
+      "snapshotId": "artifact-source:4b05c92d7289319217c5e2e716774abfc20631b0d1d164bfc3d0fad9b6833617"
+    },
+    {
+      "id": "416ec800-0353-4c7c-8ef2-07b4605c8556",
+      "title": "R49-1: Invented review gate for retention verification",
+      "source": "linear",
+      "sourceUrl": "https://linear.app/aratamedev/issue/R49-1/invented-review-gate-for-retention-verification",
+      "updatedAt": "2026-09-11T18:29:23.339Z",
+      "sha256": "8612a6deb8bab896ca0c60cf3aa586d0aca7d72c092490f877f22ba420a64b40",
+      "sourceIdentity": "965f30a1-2abc-4024-890b-281bdecc6a31",
+      "ingestedAt": "2026-09-11T18:29:23.339Z",
+      "upstreamVersion": "2026-09-11T17:59:03.592Z",
+      "retention": "cloud",
+      "snapshotId": "artifact-source:0d482e6a0d7620752c149d928e39354d83f02b8f99dfee935526a994de5afa5f"
+    }
+  ],
+  "cases": []
+}
