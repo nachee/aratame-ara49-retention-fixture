@@ -9,6 +9,12 @@
       "sha256": "e5d62236f01ed1acff729caec4f3af184781eb37716113968b89716156ed68d6"
     },
     {
+      "path": "aratame/knowledge/history/7f196bf6d2518a9307b8ba70ab84f0be.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "e8f67947f2e45e41c7cc1fedf3bcd7a4c32f7b0c33d7e34202891e92af19afd5"
+    },
+    {
       "path": "aratame/knowledge/history/af049a85c8508c44c18db1b4f06d892d.md",
       "kind": "knowledge",
       "origin": "generated",
@@ -27,6 +33,12 @@
       "sha256": "47d916a29dc003befbf8e2cab8344e6819102d21011d77741928de505b9ef691"
     },
     {
+      "path": "aratame/knowledge/history/dbbf094073d80fd74190fe1e17824cdc.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "f989839dcbccb867ce6233977f8c3a9f3b30de2ff7fadc5442d12234e60be483"
+    },
+    {
       "path": "aratame/knowledge/history/f8f4f8f35d0077726ab1ca64c1a04cf4.md",
       "kind": "knowledge",
       "origin": "generated",
@@ -36,35 +48,29 @@
       "path": "aratame/knowledge/pages/09f231e261c6cb7db15060829c3a1c7c.md",
       "kind": "knowledge",
       "origin": "generated",
-      "sha256": "d6fc81c4d72dce779dfec42081d02715038265da24df65632a3c7ddfd12e2d12"
+      "sha256": "8557da37dd061f38e13b44c47c39c3e1aefa4b9b619ff384cd09c120010b0a66"
     },
     {
       "path": "aratame/knowledge/provenance.json",
       "kind": "provenance",
       "origin": "generated",
-      "sha256": "1cb002cb4513f5d2f23b1607c9bd20fda1a772d42802bb89ef06b094d9413281"
-    },
-    {
-      "path": "aratame/sources/2a77133ba79c77219cba3cf518f6aac6.txt",
-      "kind": "source-snapshot",
-      "origin": "generated",
-      "sha256": "ad8ef2e1e440389c5d7cf3f58232a8ac4f2b7f6ea64d1c7842f99b102eda2833"
+      "sha256": "4724bbb5c43ec7eb72c2ebb3d34bc81e99689605af22aa73345ed2711b985074"
     }
   ],
   "knowledge": [
     {
-      "id": "b4425119-5ff0-4bce-b4e3-c3330fb35ba5",
+      "id": "470caa02-b975-4417-b804-4abbd922e95d",
       "title": "Invented retention guide",
       "surface": "parcel",
       "path": "aratame/knowledge/pages/09f231e261c6cb7db15060829c3a1c7c.md",
       "origin": "generated",
       "citations": [
         "2c34d620-ebd0-43b9-a40c-15a6c8f86a79",
-        "b15c32d1-baf5-4c36-8073-6fc2504eecff"
+        "8f31f4e2-0ee0-40aa-b9ac-0c4aee99bc03"
       ],
       "sourceVersions": {
         "2c34d620-ebd0-43b9-a40c-15a6c8f86a79": "2026-09-11T18:29:56.904Z",
-        "b15c32d1-baf5-4c36-8073-6fc2504eecff": "2026-09-11T18:33:43.278Z"
+        "8f31f4e2-0ee0-40aa-b9ac-0c4aee99bc03": "2026-09-11T18:35:10.032Z"
       },
       "gaps": [],
       "history": [
@@ -79,6 +85,11 @@
           "updatedAt": "2026-09-11T18:31:24.357Z"
         },
         {
+          "id": "b4425119-5ff0-4bce-b4e3-c3330fb35ba5",
+          "path": "aratame/knowledge/history/7f196bf6d2518a9307b8ba70ab84f0be.md",
+          "updatedAt": "2026-09-11T18:35:10.069Z"
+        },
+        {
           "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
           "path": "aratame/knowledge/history/d3565d7985e94b9ad9fe85e4a95a10f9.md",
           "updatedAt": "2026-09-11T18:30:18.960Z"
@@ -87,6 +98,11 @@
           "id": "0a7e75c7-5de3-4808-ba84-a0fbaf453368",
           "path": "aratame/knowledge/history/c0cab168e67aaf8f03c913f56e3fa7de.md",
           "updatedAt": "2026-09-11T18:32:30.308Z"
+        },
+        {
+          "id": "b4425119-5ff0-4bce-b4e3-c3330fb35ba5",
+          "path": "aratame/knowledge/history/dbbf094073d80fd74190fe1e17824cdc.md",
+          "updatedAt": "2026-09-11T18:33:50.093Z"
         }
       ]
     }
@@ -102,17 +118,16 @@
       "snapshotId": "artifact-source:4b05c92d7289319217c5e2e716774abfc20631b0d1d164bfc3d0fad9b6833617"
     },
     {
-      "id": "b15c32d1-baf5-4c36-8073-6fc2504eecff",
+      "id": "8f31f4e2-0ee0-40aa-b9ac-0c4aee99bc03",
       "title": "R49-1: Invented review gate for retention verification",
       "source": "linear",
       "sourceUrl": "https://linear.app/aratamedev/issue/R49-1/invented-review-gate-for-retention-verification",
-      "updatedAt": "2026-09-11T18:33:43.278Z",
-      "sha256": "ad8ef2e1e440389c5d7cf3f58232a8ac4f2b7f6ea64d1c7842f99b102eda2833",
+      "updatedAt": "2026-09-11T18:35:10.032Z",
+      "sha256": "f73e61c46148af6fa1f284d73e05bfb1f622b40225f4677de1e23504e755b156",
       "sourceIdentity": "965f30a1-2abc-4024-890b-281bdecc6a31",
-      "ingestedAt": "2026-09-11T18:33:43.278Z",
-      "upstreamVersion": "2026-09-11T18:33:43.079Z",
-      "retention": "repository",
-      "path": "aratame/sources/2a77133ba79c77219cba3cf518f6aac6.txt"
+      "ingestedAt": "2026-09-11T18:35:10.032Z",
+      "upstreamVersion": "2026-09-11T18:35:08.952Z",
+      "retention": "references"
     }
   ],
   "cases": []
