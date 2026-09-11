@@ -11,36 +11,41 @@
       "snapshotId": "artifact-source:4b05c92d7289319217c5e2e716774abfc20631b0d1d164bfc3d0fad9b6833617"
     },
     {
-      "id": "a7c5f676-ede2-4752-9268-b6b772fcff55",
+      "id": "b15c32d1-baf5-4c36-8073-6fc2504eecff",
       "title": "R49-1: Invented review gate for retention verification",
       "source": "linear",
       "sourceUrl": "https://linear.app/aratamedev/issue/R49-1/invented-review-gate-for-retention-verification",
-      "updatedAt": "2026-09-11T18:31:24.326Z",
-      "sha256": "e7e1e27bc41dca1febb2a733ce47fd32368f97b7ffefab11f9d28329350ccd25",
+      "updatedAt": "2026-09-11T18:33:43.278Z",
+      "sha256": "ad8ef2e1e440389c5d7cf3f58232a8ac4f2b7f6ea64d1c7842f99b102eda2833",
       "sourceIdentity": "965f30a1-2abc-4024-890b-281bdecc6a31",
-      "ingestedAt": "2026-09-11T18:31:24.326Z",
-      "upstreamVersion": "2026-09-11T18:31:24.202Z",
+      "ingestedAt": "2026-09-11T18:33:43.278Z",
+      "upstreamVersion": "2026-09-11T18:33:43.079Z",
       "retention": "repository",
       "path": "aratame/sources/2a77133ba79c77219cba3cf518f6aac6.txt"
     }
   ],
   "knowledge": [
     {
-      "id": "0a7e75c7-5de3-4808-ba84-a0fbaf453368",
+      "id": "b4425119-5ff0-4bce-b4e3-c3330fb35ba5",
       "title": "Invented retention guide",
       "surface": "parcel",
       "path": "aratame/knowledge/pages/09f231e261c6cb7db15060829c3a1c7c.md",
       "origin": "generated",
       "citations": [
         "2c34d620-ebd0-43b9-a40c-15a6c8f86a79",
-        "a7c5f676-ede2-4752-9268-b6b772fcff55"
+        "b15c32d1-baf5-4c36-8073-6fc2504eecff"
       ],
       "sourceVersions": {
         "2c34d620-ebd0-43b9-a40c-15a6c8f86a79": "2026-09-11T18:29:56.904Z",
-        "a7c5f676-ede2-4752-9268-b6b772fcff55": "2026-09-11T18:31:24.326Z"
+        "b15c32d1-baf5-4c36-8073-6fc2504eecff": "2026-09-11T18:33:43.278Z"
       },
       "gaps": [],
       "history": [
+        {
+          "id": "0a7e75c7-5de3-4808-ba84-a0fbaf453368",
+          "path": "aratame/knowledge/history/af049a85c8508c44c18db1b4f06d892d.md",
+          "updatedAt": "2026-09-11T18:33:43.287Z"
+        },
         {
           "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
           "path": "aratame/knowledge/history/f8f4f8f35d0077726ab1ca64c1a04cf4.md",
@@ -50,11 +55,22 @@
           "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
           "path": "aratame/knowledge/history/d3565d7985e94b9ad9fe85e4a95a10f9.md",
           "updatedAt": "2026-09-11T18:30:18.960Z"
+        },
+        {
+          "id": "0a7e75c7-5de3-4808-ba84-a0fbaf453368",
+          "path": "aratame/knowledge/history/c0cab168e67aaf8f03c913f56e3fa7de.md",
+          "updatedAt": "2026-09-11T18:32:30.308Z"
         }
       ]
     }
   ],
   "history": [
+    {
+      "id": "0a7e75c7-5de3-4808-ba84-a0fbaf453368",
+      "path": "aratame/knowledge/history/af049a85c8508c44c18db1b4f06d892d.md",
+      "updatedAt": "2026-09-11T18:33:43.287Z",
+      "provenancePath": "aratame/knowledge/history/af049a85c8508c44c18db1b4f06d892d.md"
+    },
     {
       "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
       "path": "aratame/knowledge/history/f8f4f8f35d0077726ab1ca64c1a04cf4.md",
@@ -66,6 +82,12 @@
       "path": "aratame/knowledge/history/d3565d7985e94b9ad9fe85e4a95a10f9.md",
       "updatedAt": "2026-09-11T18:30:18.960Z",
       "provenancePath": "aratame/knowledge/history/d3565d7985e94b9ad9fe85e4a95a10f9.md"
+    },
+    {
+      "id": "0a7e75c7-5de3-4808-ba84-a0fbaf453368",
+      "path": "aratame/knowledge/history/c0cab168e67aaf8f03c913f56e3fa7de.md",
+      "updatedAt": "2026-09-11T18:32:30.308Z",
+      "provenancePath": "aratame/knowledge/history/c0cab168e67aaf8f03c913f56e3fa7de.md"
     }
   ]
 }

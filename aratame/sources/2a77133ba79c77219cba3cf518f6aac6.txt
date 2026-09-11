@@ -2,9 +2,9 @@
   "id": "965f30a1-2abc-4024-890b-281bdecc6a31",
   "identifier": "R49-1",
   "title": "Invented review gate for retention verification",
-  "description": "Invented acceptance data only. The Copper Parcel service requires a reviewer to confirm the delivery label before shipment and record the review initials. Version beta. This is not a real product requirement.",
+  "description": "Invented acceptance data only. The Copper Parcel service requires a reviewer to confirm the delivery label, record initials and record the review date before shipment. Version gamma. This is not a real product requirement.",
   "url": "https://linear.app/aratamedev/issue/R49-1/invented-review-gate-for-retention-verification",
-  "updatedAt": "2026-09-11T18:31:24.202Z",
+  "updatedAt": "2026-09-11T18:33:43.079Z",
   "team": {
     "id": "4b74fb77-bdff-4c54-a41d-77a741046d41",
     "key": "R49",
