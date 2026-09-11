@@ -9,35 +9,64 @@
       "sha256": "e5d62236f01ed1acff729caec4f3af184781eb37716113968b89716156ed68d6"
     },
     {
+      "path": "aratame/knowledge/history/d3565d7985e94b9ad9fe85e4a95a10f9.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "47d916a29dc003befbf8e2cab8344e6819102d21011d77741928de505b9ef691"
+    },
+    {
+      "path": "aratame/knowledge/history/f8f4f8f35d0077726ab1ca64c1a04cf4.md",
+      "kind": "knowledge",
+      "origin": "generated",
+      "sha256": "4af7047d531739dd30c14e52a104840d98c7e61d8a5640b15b7e44b81c009839"
+    },
+    {
       "path": "aratame/knowledge/pages/09f231e261c6cb7db15060829c3a1c7c.md",
       "kind": "knowledge",
       "origin": "generated",
-      "sha256": "1fb57afdeb2d085280f48ea1c608322f7404824d7cf7007c43af3bf8664d8420"
+      "sha256": "ca718f5417beaef7fae68c18405649ea4e8bead7c721be3c95929917b01d26c2"
     },
     {
       "path": "aratame/knowledge/provenance.json",
       "kind": "provenance",
       "origin": "generated",
-      "sha256": "41e90ad81f76ac391c355e398536fdc57c0743ebaedcb1903c43627ca4922a21"
+      "sha256": "a03fe12def8def926d7953ce4f295d3b05ea0fb91af12c8a81fdb2aa6ea3d4db"
+    },
+    {
+      "path": "aratame/sources/2a77133ba79c77219cba3cf518f6aac6.txt",
+      "kind": "source-snapshot",
+      "origin": "generated",
+      "sha256": "e7e1e27bc41dca1febb2a733ce47fd32368f97b7ffefab11f9d28329350ccd25"
     }
   ],
   "knowledge": [
     {
-      "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
+      "id": "0a7e75c7-5de3-4808-ba84-a0fbaf453368",
       "title": "Invented retention guide",
       "surface": "parcel",
       "path": "aratame/knowledge/pages/09f231e261c6cb7db15060829c3a1c7c.md",
       "origin": "generated",
       "citations": [
         "2c34d620-ebd0-43b9-a40c-15a6c8f86a79",
-        "416ec800-0353-4c7c-8ef2-07b4605c8556"
+        "a7c5f676-ede2-4752-9268-b6b772fcff55"
       ],
       "sourceVersions": {
         "2c34d620-ebd0-43b9-a40c-15a6c8f86a79": "2026-09-11T18:29:56.904Z",
-        "416ec800-0353-4c7c-8ef2-07b4605c8556": "2026-09-11T18:29:23.339Z"
+        "a7c5f676-ede2-4752-9268-b6b772fcff55": "2026-09-11T18:31:24.326Z"
       },
       "gaps": [],
-      "history": []
+      "history": [
+        {
+          "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
+          "path": "aratame/knowledge/history/f8f4f8f35d0077726ab1ca64c1a04cf4.md",
+          "updatedAt": "2026-09-11T18:31:24.357Z"
+        },
+        {
+          "id": "7e710997-4ac5-4cb3-a38e-27cbf1e37ffd",
+          "path": "aratame/knowledge/history/d3565d7985e94b9ad9fe85e4a95a10f9.md",
+          "updatedAt": "2026-09-11T18:30:18.960Z"
+        }
+      ]
     }
   ],
   "sources": [
@@ -51,17 +80,17 @@
       "snapshotId": "artifact-source:4b05c92d7289319217c5e2e716774abfc20631b0d1d164bfc3d0fad9b6833617"
     },
     {
-      "id": "416ec800-0353-4c7c-8ef2-07b4605c8556",
+      "id": "a7c5f676-ede2-4752-9268-b6b772fcff55",
       "title": "R49-1: Invented review gate for retention verification",
       "source": "linear",
       "sourceUrl": "https://linear.app/aratamedev/issue/R49-1/invented-review-gate-for-retention-verification",
-      "updatedAt": "2026-09-11T18:29:23.339Z",
-      "sha256": "8612a6deb8bab896ca0c60cf3aa586d0aca7d72c092490f877f22ba420a64b40",
+      "updatedAt": "2026-09-11T18:31:24.326Z",
+      "sha256": "e7e1e27bc41dca1febb2a733ce47fd32368f97b7ffefab11f9d28329350ccd25",
       "sourceIdentity": "965f30a1-2abc-4024-890b-281bdecc6a31",
-      "ingestedAt": "2026-09-11T18:29:23.339Z",
-      "upstreamVersion": "2026-09-11T17:59:03.592Z",
-      "retention": "cloud",
-      "snapshotId": "artifact-source:0d482e6a0d7620752c149d928e39354d83f02b8f99dfee935526a994de5afa5f"
+      "ingestedAt": "2026-09-11T18:31:24.326Z",
+      "upstreamVersion": "2026-09-11T18:31:24.202Z",
+      "retention": "repository",
+      "path": "aratame/sources/2a77133ba79c77219cba3cf518f6aac6.txt"
     }
   ],
   "cases": []
